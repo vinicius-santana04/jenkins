@@ -3,6 +3,6 @@ public class ConversorTemperatura {
     }
 
     public double celsiusParaFahrenheit(double celsius) {
-        return (celsius * 9 / 5) + 100;
+        return (celsius * 9 / 5) + 32;
     }
 }
